@@ -1,2 +1,2 @@
 # ConexionJavaSQL
-Práctica del curso de Fullstack 
+Práctica de curso de Fullstack 
